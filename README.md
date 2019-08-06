@@ -20,7 +20,7 @@ Add support JitPack repository in root build.gradle at the end of repositories:
 		}
 	}
 ```
-# implemntation in your XML File 
+# Implemntation in your XML File 
 All you will do 
 1- Instead of android TextView View you will replace it with 
 - for **Solid Icons** [link to solid icons !](https://fontawesome.com/icons?d=gallery&s=solid)
@@ -53,7 +53,7 @@ All you will do
             app:layout_constraintVertical_bias="0.079" android:id="@+id/fontAwesomeSolidView"/>
 ```
 
-# implemntation in your JAVA/KOTLIN Files
+# Implemntation in your JAVA/KOTLIN Files
  - you will use next method that take 
  1- Your context 
  2- Text view defined in your java file to applay font awesome on it 
