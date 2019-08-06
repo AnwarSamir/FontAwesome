@@ -38,7 +38,7 @@ All you will do
             app:layout_constraintVertical_bias="0.079" android:id="@+id/fontAwesomeSolidView"/>
 ```
 -------------------------------------
--for **Regular Icons** [link to Regular icons !](https://fontawesome.com/icons?d=gallery&s=regular)
+- for **Regular Icons** [link to Regular icons !](https://fontawesome.com/icons?d=gallery&s=regular)
 ```
     <com.asitrack.fontawesome2.FontAwesome.FontAwesomeRegularView
             android:layout_width="wrap_content"
@@ -60,7 +60,7 @@ All you will do
  3- Font awesome code "\u(Your font awesome code)"
  4- Color to apply on your android text view 
  
- -for **Regular Icons** [link to Regular icons !](https://fontawesome.com/icons?d=gallery&s=regular)
+ - for **Regular Icons** [link to Regular icons !](https://fontawesome.com/icons?d=gallery&s=regular)
 ```
  FontAwesomeUtils.changeFontAwesomeForRegularIconColor(this,textView,"\uF057",
             resources.getColor(R.color.colorPrimary))
