@@ -53,10 +53,10 @@ All you will do
             app:layout_constraintVertical_bias="0.079" android:id="@+id/fontAwesomeSolidView"/>
 ```
 
-# Implemntation in your JAVA/KOTLIN Files
+# Implementation in your JAVA/KOTLIN Files
  - you will use next method that take 
  1- Your context 
- 2- Text view defined in your java file to applay font awesome on it 
+ 2- Text view defined in your java file to apply font awesome on it 
  3- Font awesome code "\u(Your font awesome code)"
  4- Color to apply on your android text view 
  
